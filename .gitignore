@@ -1,18 +1,49 @@
 # Object files
 *.o
 *.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
+*.o.*
+*.uvgui.*
+*.bat
+*.__i
+*.dbgdt
+*.tra
+*.iex
+*.pbd
+*.browse
+*.tmp
+*.ewt
+*.db
+*.__ia
+*.dni
+*.wsdt
+*.pbi
+*.bin
+*.cout
+*.crf
+*.d
+*.sct
+*.htm
+*.map
+*.axf
+*.lnp
+*.txt
+*.ini
+*.Scr
+*.lst
+output
+Doc
+settings
+Debug
+SI
+Tools
+Tool
+Release
+lib_html
+d4d
+net_5000
 
 # Libraries
-*.lib
 *.a
-*.la
-*.lo
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -24,53 +55,10 @@
 *.exe
 *.out
 *.app
-*.i*86
-*.x86_64
 *.hex
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-# Windows
-# =========================
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
+# Project files
+*.plg
+*.Yandld
+*.dep
+*.bak
